@@ -1,0 +1,7 @@
+1 kg g
+1000 g kg
+100 cm m
+1 km m
+10000 m km
+98.6 f c
+46 c f
